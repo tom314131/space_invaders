@@ -1,0 +1,8 @@
+# default values for blocks
+default height:30 width:40 stroke:color(black)
+
+# block definitions
+bdef symbol:e hit_points:1 fill:image(block_images/enemy.png)
+
+# spacers definitions
+sdef symbol:- width:10
